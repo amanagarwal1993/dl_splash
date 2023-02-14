@@ -28,4 +28,10 @@ hr {
 
 section.nondev {
   padding: 0% 5%;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.text-url {
+  text-decoration: none;
 }
