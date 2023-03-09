@@ -32,8 +32,13 @@ section.nondev {
   max-width: 500px;
 }
 
-.roald h3,h4 {
+.roald h3 {
     text-align: center;
+}
+
+.roald h4 {
+    text-align: center;
+    font-weight: 500;
 }
 
 .roald img {
