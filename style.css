@@ -32,6 +32,15 @@ section.nondev {
   max-width: 500px;
 }
 
+.roald h3,h4 {
+    text-align: center;
+}
+
+.roald img {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
 .text-url {
   text-decoration: none;
 }
