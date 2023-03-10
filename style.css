@@ -49,3 +49,7 @@ section.nondev {
 .text-url {
   text-decoration: none;
 }
+
+.red-text {
+    color: #0432ff;
+}
