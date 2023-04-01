@@ -26,6 +26,11 @@ hr {
   color: blue;
 }
 
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
 section.nondev {
   padding: 0% 5%;
   margin: 0 auto;
