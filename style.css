@@ -31,6 +31,12 @@ hr {
     margin: 0 auto;
 }
 
+.center hr {
+    width: 70px;
+    color: #c0c0c0;
+    margin: 0 auto;
+}
+
 section.nondev {
   padding: 0% 5%;
   margin: 0 auto;
