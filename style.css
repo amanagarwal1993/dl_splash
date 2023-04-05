@@ -33,8 +33,10 @@ hr {
 
 .center hr {
     width: 70px;
-    color: #c0c0c0;
+    background-color: #ecebf4;
+    border: none;
     margin: 0 auto;
+    height: 4px;
 }
 
 section.nondev {
