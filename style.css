@@ -66,3 +66,7 @@ section.nondev {
 .red-text {
     color: #0432ff;
 }
+
+.endorsed img {
+    max-height: 120px;
+}
