@@ -67,6 +67,11 @@ section.nondev {
     color: #0432ff;
 }
 
+.endorsed {
+    text-align: center !important;
+}
+
 .endorsed img {
     max-height: 120px;
+    margin: auto;
 }
