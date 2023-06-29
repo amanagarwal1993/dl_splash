@@ -75,3 +75,7 @@ section.nondev {
     max-height: 120px;
     margin: auto;
 }
+
+.about-signature {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
